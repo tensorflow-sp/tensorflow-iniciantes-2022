@@ -14,4 +14,5 @@ Repositório destinado ao compartilhamento dos materias e vídeos referentes ao 
   <a href="https://youtu.be/bQrdh6ExaGg" title="Episódio 3"><img src="https://i9.ytimg.com/vi/bQrdh6ExaGg/hqdefault.jpg?v=6253796c&sqp=CMCExZUG&rs=AOn4CLCtPaEx7n9i7UGBsWC_ElkSL_boTw"/></a>
 
 - **Episódio 4:** Processamento de dados no Tensorflow
+
   <a href="https://youtu.be/0fD5eZjnwt4" title="Episódio 4"><img src="https://i9.ytimg.com/vi/0fD5eZjnwt4/hqdefault.jpg?v=6287d68a&sqp=CMCExZUG&rs=AOn4CLCgbxxvOiP198jXrDwLBLpMpEUosQ"/></a>
